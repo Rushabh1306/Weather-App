@@ -9,5 +9,5 @@ This app will display the weather conditions of the entered city.
 Built with:-
 1.Python 3
 2.Jupyter (Editor)
-3.Openweathermapapi(Info source)
+3.Openweathermapapi(API source)
 
